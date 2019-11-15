@@ -1,0 +1,22 @@
+let oneState = {
+    track: {nameArtist: 'Singer', nameTrack: 'Track', albumCover: 'Image', length: 'time', isLike: false},
+    timePause: number,
+    volume: number,
+    isPlay: true,
+    playlist: [{nameArtist: 'Singer', nameTrack: 'Track'}, {nameArtist: 'Singer', nameTrack: 'Track'}],
+    sort: ''
+};
+
+let twoState= {
+    location: {country: '', city: ''},
+    nowWeather: {temp: number, characteristic: '', wind: number},
+    week: {
+        mon: {dayOfTheWeek:'', imageWeather: '', dayTemp: number, nightTemp:number},
+        tue: {dayOfTheWeek:'', imageWeather: '', dayTemp: number, nightTemp:number},
+        wen: {dayOfTheWeek:'', imageWeather: '', dayTemp: number, nightTemp:number},
+        thu: {dayOfTheWeek:'', imageWeather: '', dayTemp: number, nightTemp:number},
+        fri: {dayOfTheWeek:'', imageWeather: '', dayTemp: number, nightTemp:number},
+        sat: {dayOfTheWeek:'', imageWeather: '', dayTemp: number, nightTemp:number},
+        sun: {dayOfTheWeek:'', imageWeather: '', dayTemp: number, nightTemp:number},
+    }
+};

@@ -1,0 +1,114 @@
+.contacts {
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    /*border: 1px solid;*/
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    padding: 80px 0;
+    align-items: center;
+}
+
+.formWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 550px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.inputForm, .message {
+    background: black !important;
+    opacity: 0.5;
+    border: 1px solid white;
+    box-sizing: border-box;
+    font-size: 12px;
+    outline: none;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.inputForm:focus, .message:focus {
+    border: 1px solid transparent;
+    transition: all 0.4s ease-in-out;
+}
+
+.message {
+    min-height: 100px;
+    padding: 15px;
+    /*resize: vertical*/
+}
+
+.inputForm {
+    height: calc(1.5em + .75rem + 2px);
+    padding: .4rem 15px;
+}
+
+.posButton {
+    display: flex;
+    justify-content: center;
+}
+
+.buttonSend {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    border: none;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    margin: 0 0 15px;
+    padding: 8px 30px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    /*letter-spacing: 1px;*/
+    background-color: transparent;
+    outline: none;
+    color: white;
+    /*margin-top: -10px;*/
+    position: relative;
+    /*z-index: 0;*/
+}
+
+.buttonSend:hover {
+    color: crimson;
+    text-decoration: none;
+}
+
+.buttonSend::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    height: 10px;
+    background-color: crimson;
+    margin: 0 auto;
+    z-index: 0;
+    transition: all 0.2s ease-in-out;
+}
+
+.buttonSend:hover::after {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+@media screen and (max-width: 650px) {
+    .formWrapper {
+        width: 100%;
+    }
+}

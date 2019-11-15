@@ -1,0 +1,31 @@
+.navMenu {
+    width: 360px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link:link {
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+    /*text-shadow: 3px 3px 5px white;*/
+}
+
+.link:visited {
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.link:hover {
+    color: #a8a8a8;
+    font-weight: normal;
+}
+
+.link:active {
+    color: #a8a8a8;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+
