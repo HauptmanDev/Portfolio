@@ -19,7 +19,7 @@ function Projects() {
     let title = 'My projects';
     return (
         <div id={'projects'} className={styles.projects}>
-            <Fade bottom>
+            <Fade right>
                 <div className={styles.container}>
                     <Title title={title}/>
                     <div className={styles.wrapper}>

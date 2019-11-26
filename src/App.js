@@ -7,7 +7,7 @@ import Projects from "./Projects/Projects";
 import Slogan from "./Slogan/Slogan";
 import Contacts from "./Contacts/Contacts";
 import Footer from "./Footer/Footer";
-import Particles from 'react-particles-js'
+import Particles from 'react-particles-js';
 
 const particlesOpt = {
 

@@ -16,17 +16,18 @@ function Footer() {
                     <Title title={title}/>
                     <div className={styles.social}>
                         <div className={styles.icon}>
-                            <a href=''>
+                            <a href='https://t.me/HauptDev' target='_blank' rel="noopener noreferrer">
                                 <img src={telegram} alt=''/>
                             </a>
                         </div>
                         <div className={styles.icon}>
-                            <a href=''>
+                            <a href='https://vk.com/id_brosco' target='_blank' rel="noopener noreferrer">
                                 <img src={vk} alt=''/>
                             </a>
                         </div>
                         <div className={styles.icon}>
-                            <a href=''>
+                            <a href='https://www.linkedin.com/in/vadim-haupt-613b56196' target='_blank'
+                               rel="noopener noreferrer">
                                 <img src={linkedin} alt=''/>
                             </a>
                         </div>
