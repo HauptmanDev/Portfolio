@@ -8,6 +8,7 @@ import Slogan from "./Slogan/Slogan";
 import Contacts from "./Contacts/Contacts";
 import Footer from "./Footer/Footer";
 import Particles from 'react-particles-js';
+import {HashRouter} from "react-router-dom";
 
 const particlesOpt = {
 
@@ -122,7 +123,7 @@ const particlesOpt = {
 };
 
 
-function App() {
+function Portfolio() {
     return (
         <div className="App">
             <div className="portfolio">
@@ -138,5 +139,11 @@ function App() {
         </div>
     );
 }
+
+const App = (props) => {
+    return <HashRouter>
+        <Portfolio/>
+    </HashRouter>
+};
 
 export default App;

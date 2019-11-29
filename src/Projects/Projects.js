@@ -12,9 +12,9 @@ function Projects() {
     };
 
     let project = [
-        {title: 'To do list', description: 'www', img: counterImg},
-        {title: 'Social Network', description: 'www', img: counterImg},
-        {title: 'Counter', description: 'www', img: counterImg}];
+        {title: 'To do list', description: 'Under development', img: counterImg, href: 'https://hauptmandev.github.io/Counter'},
+        {title: 'Social Network', description: 'Under development', img: counterImg, href: 'https://hauptmandev.github.io/Social-Network'},
+        {title: 'Counter', description: 'My first small application', img: counterImg, href: 'https://hauptmandev.github.io/Counter'}];
 
     let title = 'My projects';
     return (
