@@ -4,11 +4,10 @@ import styles from './Skills.module.css';
 function ReactComponent(props) {
     return (
         <div className={styles.skill}>
-            <div>
-                <img alt='Skill' className={styles.icon}/>
+            <div className={styles.icon}>
+                <img alt='Skill' src={props.skill.image} />
             </div>
-            <span className={styles.skillTitle}>{props.title}</span>
-            <span className={styles.description}>Detailed information</span>
+            <span className={styles.skillTitle}>{props.skill.title}</span>
         </div>
     );
 }

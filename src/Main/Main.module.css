@@ -58,8 +58,6 @@
     width: 300px;
     background-color: whitesmoke;
     transition: 500ms;
-
-    /*position: relative;*/
 }
 
 .photo:hover {
@@ -71,15 +69,12 @@
         height: 300px;
         width: 225px;
     }
-
     .greeting span:nth-child(2) span:before {
         width: 255px;
     }
-
     .container {
         flex-direction: column;
     }
-
 }
 
 @media screen and (max-width: 400px) {

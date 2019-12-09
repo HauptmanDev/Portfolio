@@ -8,7 +8,7 @@
     color: white;
     text-decoration: none;
     font-weight: normal;
-    /*text-shadow: 3px 3px 5px white;*/
+    text-shadow: 3px 3px 5px white;
 }
 
 .link:visited {

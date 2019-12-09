@@ -10,6 +10,7 @@ import Footer from "./Footer/Footer";
 import Particles from 'react-particles-js';
 import {HashRouter} from "react-router-dom";
 
+
 const particlesOpt = {
 
     particles: {
@@ -121,7 +122,6 @@ const particlesOpt = {
     },
     "retina_detect": true
 };
-
 
 function Portfolio() {
     return (

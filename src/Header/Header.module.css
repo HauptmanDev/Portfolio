@@ -1,12 +1,12 @@
 .header {
-    height: 50px;
+    height: 40px;
     background-color: black;
     display: flex;
     justify-content: center;
     position: fixed;
     width: 100%;
     z-index: 2;
-    opacity: 0.5;
+    opacity: 0.8;
 }
 .container {
     width: 80%;
