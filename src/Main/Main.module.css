@@ -60,6 +60,11 @@
     transition: 500ms;
 }
 
+.avatar {
+    height: 400px;
+    width: 300px;
+}
+
 .photo:hover {
     transform: scale(1.1,1.1);
 }

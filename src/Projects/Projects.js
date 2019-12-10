@@ -10,13 +10,13 @@ import Fade from "react-reveal/Fade";
 
 function Projects() {
     const todoList = {
-        todoList: `url(${TodoList})`,
+        backgroundImage: `url(${TodoList})`,
     };
     const network = {
-        network: `url(${SocialNetwork})`,
+        backgroundImage: `url(${SocialNetwork})`,
     };
     const counter = {
-        counter: `url(${Counter})`,
+        backgroundImage: `url(${Counter})`,
     };
 
     let project = [
@@ -30,12 +30,12 @@ function Projects() {
             title: 'Social Network',
             description: 'Under development',
             image: network,
-            href: 'https://hauptmandev.github.io/SocialNetwork'
+            href: 'https://hauptmandev.github.io/Social-Network/'
         },
         {
             title: 'Counter',
             description: 'My first small application',
-            image:counter,
+            image: counter,
             href: 'https://hauptmandev.github.io/Counter'
         }];
 
@@ -46,7 +46,7 @@ function Projects() {
                 <div className={styles.container}>
                     <Title title={title}/>
                     <div className={styles.wrapper}>
-                        {project.map(p => <Project info={p} style={p.image}/>)}
+                        {project.map(p => <Project info={p}/>)}
                     </div>
                 </div>
             </Fade>

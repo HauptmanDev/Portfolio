@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './Main.module.css';
 import Fade from "react-reveal/Fade";
+// import Avatar from './../assets/images/YieYzNB7q9A.jpg'
 
 function Main() {
     return (
@@ -13,7 +14,7 @@ function Main() {
                         <h1>Front-end developer</h1>
                     </div>
                     <div className={styles.photo}>
-                        <img src='' alt=''/>
+                        <img className={styles.avatar} src={''} alt=''/>
                     </div>
                 </div>
             </Fade>

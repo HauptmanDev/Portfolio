@@ -37,9 +37,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /*background-image: url('./../assets/images/counter.jpg');*/
-    background-size: 500px;
+    background-size: 380px;
     background-position: center;
+}
+
+.image a {
+    color: white;
+    text-decoration: none;
+    -webkit-transition: .3s;
+}
+
+.image a:hover {
+    color: black;
 }
 
 .image:before {
@@ -54,13 +63,15 @@
 }
 
 .showButton {
-    width: 150px;
+    width: 100px;
     height: 50px;
     background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
+    text-decoration: none;
+    font-size: 20px;
 }
 
 .projectTitle {
@@ -102,5 +113,23 @@
     }
     .description {
         margin: 10px 10px 0;
+    }
+}
+
+@media (-webkit-min-device-pixel-ratio:0) {
+    .image a {
+        background-color: white;
+        background-image: -webkit-linear-gradient(left, white 0%, black 80%, transparent 80%);
+        background-position: 150% 0;
+        background-size: 200% 200%;
+        color: transparent;
+        -webkit-transition: .6s .8s;
+        -webkit-background-clip: text;
+        font-weight: 700;
+    }
+    .image a:hover {
+        background-position: 0 0;
+        color: transparent;
+        transition: .4s 0s;
     }
 }
