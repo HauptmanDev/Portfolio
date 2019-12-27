@@ -35,10 +35,10 @@ class FormMailer extends React.Component {
             <div className={styles.container}>
                 <form className={styles.formWrapper}
                       onSubmit={this.submitForm}
-                      action="https://formspree.io/mnqnayrv"
+                      action="https://formspree.io/xleglzyp"
                       method="POST">
                     <input className={styles.inputForm} type="name" name="name" placeholder="Name"/>
-                    <input className={styles.inputForm} type="email" name="email" placeholder="Email"/>
+                    <input className={styles.inputForm} type="email" name="_replyto" placeholder="Email"/>
                     <textarea className={styles.message} placeholder="Message" rows='5' name='message'/>
                     {status === "SUCCESS" ? <div className={styles.posButton}><span>Thanks!</span></div> :
                         <div className={styles.posButton}>
