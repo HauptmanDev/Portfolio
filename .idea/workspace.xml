@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07b7f424-9361-4945-aa7b-70431d2481e9" name="Default" comment="Fixed problems component Project." />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="react-portfolio" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TTbxDRgWTTwyFTfBVoWWzBA1WH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Q:\IT-kam\react-portfolio\src\NavMenu" />
+      <recent name="Q:\IT-kam\react-portfolio\src\Footer" />
+      <recent name="Q:\IT-kam\react-portfolio\src\Contacts" />
+      <recent name="Q:\IT-kam\react-portfolio\src\Slogan" />
+      <recent name="Q:\IT-kam\react-portfolio\src\Projects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Q:\IT-kam\react-portfolio\src\Contacts" />
+      <recent name="Q:\IT-kam\react-portfolio\src\BlockTitles" />
+      <recent name="Q:\IT-kam\react-portfolio\src\Projects" />
+      <recent name="Q:\IT-kam\react-portfolio\src\Skills" />
+      <recent name="Q:\IT-kam\react-portfolio\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07b7f424-9361-4945-aa7b-70431d2481e9" name="Default" comment="" />
+      <created>1570372646971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570372646971</updated>
+      <workItem from="1570372648904" duration="9457000" />
+      <workItem from="1570465244680" duration="22000" />
+      <workItem from="1570648411542" duration="1300000" />
+      <workItem from="1570720411369" duration="864000" />
+      <workItem from="1570957071354" duration="9196000" />
+      <workItem from="1571334984891" duration="4589000" />
+      <workItem from="1571407574882" duration="1435000" />
+      <workItem from="1571686303355" duration="1340000" />
+      <workItem from="1571754321927" duration="2586000" />
+      <workItem from="1571773379195" duration="1575000" />
+      <workItem from="1571843376871" duration="13511000" />
+      <workItem from="1571929905464" duration="75000" />
+      <workItem from="1572156730739" duration="559000" />
+      <workItem from="1572157362606" duration="17804000" />
+      <workItem from="1572275905756" duration="4004000" />
+      <workItem from="1572356778569" duration="612000" />
+      <workItem from="1572375746522" duration="2683000" />
+      <workItem from="1572450304289" duration="10000" />
+      <workItem from="1572542351891" duration="1277000" />
+      <workItem from="1572617842699" duration="2086000" />
+      <workItem from="1572629741729" duration="109000" />
+      <workItem from="1572629942553" duration="3306000" />
+      <workItem from="1572697260726" duration="14000" />
+      <workItem from="1572967574355" duration="132000" />
+      <workItem from="1572978950621" duration="907000" />
+      <workItem from="1572980975687" duration="264000" />
+      <workItem from="1572983474115" duration="1192000" />
+      <workItem from="1573051783863" duration="3839000" />
+      <workItem from="1573065768836" duration="4126000" />
+      <workItem from="1573127295001" duration="8246000" />
+      <workItem from="1573160835258" duration="576000" />
+      <workItem from="1573208024457" duration="9801000" />
+      <workItem from="1573245207788" duration="16000" />
+      <workItem from="1573333228446" duration="4051000" />
+      <workItem from="1573374256234" duration="5420000" />
+      <workItem from="1573402126539" duration="5150000" />
+      <workItem from="1573484540521" duration="44000" />
+      <workItem from="1573487280173" duration="1367000" />
+      <workItem from="1573832188101" duration="630000" />
+      <workItem from="1574361843744" duration="1463000" />
+      <workItem from="1574431055458" duration="4880000" />
+      <workItem from="1574530353090" duration="3175000" />
+      <workItem from="1574580357014" duration="2008000" />
+      <workItem from="1574584193031" duration="983000" />
+      <workItem from="1574696277840" duration="4737000" />
+      <workItem from="1574703884609" duration="6424000" />
+      <workItem from="1574783387105" duration="2380000" />
+      <workItem from="1575060308272" duration="3446000" />
+      <workItem from="1575135025015" duration="16000" />
+      <workItem from="1575712686945" duration="3249000" />
+      <workItem from="1575719413891" duration="3706000" />
+      <workItem from="1575916639074" duration="6421000" />
+      <workItem from="1575994356216" duration="8927000" />
+      <workItem from="1576092986428" duration="1050000" />
+      <workItem from="1576168016843" duration="55000" />
+      <workItem from="1576168903298" duration="3741000" />
+      <workItem from="1576180547200" duration="1391000" />
+      <workItem from="1576251062118" duration="223000" />
+      <workItem from="1576594212588" duration="4543000" />
+      <workItem from="1577305117664" duration="296000" />
+      <workItem from="1577363428170" duration="614000" />
+      <workItem from="1577383574264" duration="1494000" />
+      <workItem from="1577457713536" duration="1625000" />
+      <workItem from="1578156776794" duration="659000" />
+      <workItem from="1578674525274" duration="49000" />
+      <workItem from="1578813716447" duration="523000" />
+    </task>
+    <task id="LOCAL-00001" summary="Refactaring code. Added SendMailer.">
+      <created>1574789968587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574789968587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Router.">
+      <created>1575062557917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575062557917</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added logo.">
+      <created>1575923138622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575923138622</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change components.">
+      <created>1576003491391</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576003491391</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed problems component Project.">
+      <created>1576003969836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576003969836</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed problems component Contacts.">
+      <created>1576073737225</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576073737225</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed problems.">
+      <created>1577457822119</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577457822119</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed problems.">
+      <created>1577458667992</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577458667992</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactaring code. Added SendMailer." />
+    <MESSAGE value="Added Router." />
+    <MESSAGE value="Added logo." />
+    <MESSAGE value="Change components." />
+    <MESSAGE value="Fixed problems component Project." />
+    <MESSAGE value="Fixed problems component Contacts." />
+    <MESSAGE value="Fixed problems." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed problems." />
+  </component>
+</project>
