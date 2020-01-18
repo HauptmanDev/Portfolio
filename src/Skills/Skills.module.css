@@ -19,23 +19,24 @@
 
 .wrapper {
     /*border: 1px solid;*/
-    /*height: 100%;*/
-    /*width: 100%;*/
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
 }
 
+.title {
+    margin-top: 50px;
+}
+
 .skill {
     /*border: 1px solid;*/
-    /*height: 100%;*/
     width: 300px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    margin: 50px 0;
+    margin: 20px 0;
     position: relative;
 
 }
@@ -79,6 +80,7 @@
         flex-direction: column;
         align-items: center;
     }
+
     .skill {
         width: 500px;
     }

@@ -4,8 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 50px 0;
-
+    /*padding: 50px 0;*/
 }
 
 .container {
@@ -20,7 +19,7 @@
 .greeting {
     display: flex;
     flex-direction: column;
-    padding: 50px;
+    padding: 20px;
     /*border: 1px solid;*/
 }
 

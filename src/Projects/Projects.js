@@ -21,14 +21,8 @@ function Projects() {
 
     let project = [
         {
-            title: 'To do list',
-            description: 'Under development',
-            image: todoList,
-            href: 'https://hauptmandev.github.io/Todolist'
-        },
-        {
             title: 'Social Network',
-            description: 'Under development',
+            description: 'Intermediate stage of development',
             image: network,
             href: 'https://hauptmandev.github.io/Social-Network/'
         },
@@ -39,12 +33,14 @@ function Projects() {
             href: 'https://hauptmandev.github.io/Counter'
         }];
 
-    let title = 'My projects';
+    let title = 'My first projects';
     return (
         <div id={'projects'} className={styles.projects}>
             <Fade right>
                 <div className={styles.container}>
-                    <Title title={title}/>
+                    <div className={styles.title}>
+                        <Title title={title}/>
+                    </div>
                     <div className={styles.wrapper}>
                         {project.map(p => <Project info={p}/>)}
                     </div>

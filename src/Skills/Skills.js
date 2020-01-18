@@ -21,7 +21,9 @@ function Skills() {
         <div id={'skills'} className={styles.skills}>
             <Fade bottom>
                 <div className={styles.container}>
-                    <Title title={title}/>
+                    <div className={styles.title}>
+                        <Title  title={title}/>
+                    </div>
                     <div className={styles.wrapper}>
                         {skills.map(s => {
                             return <ReactComponent skill={s}/>

@@ -5,12 +5,14 @@ import Fade from "react-reveal/Fade";
 import FormMailer from "./FormMailer";
 
 function Contacts() {
-    let title = 'Contacts';
+    let title = 'Contact';
     return (
         <div id={'contacts'} className={styles.contacts}>
             <Fade bottom>
                 <div className={styles.container}>
-                    <Title title={title}/>
+                    <div className={styles.title}>
+                        <Title title={title}/>
+                    </div>
                     <FormMailer/>
                 </div>
             </Fade>
